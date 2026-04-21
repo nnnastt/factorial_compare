@@ -1,4 +1,5 @@
 # Сравнение производительности реализаций факториала
+<img width="1565" height="419" alt="image" src="https://github.com/user-attachments/assets/232c6a45-a0a6-45c5-88bb-1811341f14d0" />
 
 ## 📋 Описание проекта
 
@@ -27,4 +28,4 @@
 
 ```bash
 pip install matplotlib pytest
-<img width="1565" height="419" alt="image" src="https://github.com/user-attachments/assets/9bef8335-e510-40c9-8b34-809cd658fb3e" />
+
